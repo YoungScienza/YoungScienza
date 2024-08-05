@@ -14,9 +14,9 @@ Alma Mater Studiorum, Università di Bologna, Bologna, Italy.< br / >
 ## Work Experience
 + **Master Thesis Student**
 
-Munich Re, Munich, Germany
+  Munich Re, Munich, Germany
 
-Nov 2023 - June 2024
+  Nov 2023 - June 2024
 
 + **Data Scientist Intern** 
 Munich Re, Munich, Germany < br / >
