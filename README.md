@@ -10,7 +10,7 @@ Hi welcome in my Github page! Here is a resume of my academic and work experienc
 
 + **Bachelor's degree in Statisitcal Science, curriculum Economics and Business:**
   
-    Alma Mater Studiorum, Università di Bologna, Bologna, Italy.< br / >
+    Alma Mater Studiorum, Università di Bologna, Bologna, Italy.  
     Thesis title: *"Calculation of CLV using RFM variables"* in collaboration with BitBang s.r.l. Accepted with full mark (4/4).
 
 ## Work Experience
