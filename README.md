@@ -12,11 +12,13 @@ Alma Mater Studiorum, Università di Bologna, Bologna, Italy.< br / >
 - Thesis title: *"Calculation of CLV using RFM variables"* in collaboration with BitBang s.r.l. Accepted with full mark (4/4).
 
 ## Work Experience
-+ **Master Thesis Student** < br / >
-Munich Re, Munich, Germany < br / >
++ **Master Thesis Student**
+
+Munich Re, Munich, Germany
+
 Nov 2023 - June 2024
 
-+ **Data Scientist Intern** < br / >
++ **Data Scientist Intern** 
 Munich Re, Munich, Germany < br / >
 Apr 2023 - Nov 2024
 
