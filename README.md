@@ -8,9 +8,10 @@ Hi welcome in my Github page! Here is a resume of my academic and work experienc
 
     Thesis title: *"Extracting information from documents using Retrieval Augmented Generation (RAG) and Large Language Models (LLMs)"* in collaboration with Munich Re. Accepted with full mark (6/6)
 
-+ **Bachelor's degree in Statisitcal Science, curriculum Economics and Business:** < br / >
-Alma Mater Studiorum, Università di Bologna, Bologna, Italy.< br / >
-- Thesis title: *"Calculation of CLV using RFM variables"* in collaboration with BitBang s.r.l. Accepted with full mark (4/4).
++ **Bachelor's degree in Statisitcal Science, curriculum Economics and Business:**
+  
+    Alma Mater Studiorum, Università di Bologna, Bologna, Italy.< br / >
+    Thesis title: *"Calculation of CLV using RFM variables"* in collaboration with BitBang s.r.l. Accepted with full mark (4/4).
 
 ## Work Experience
 + **Master Thesis Student**
