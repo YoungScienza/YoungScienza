@@ -1,5 +1,5 @@
 ### Hello World!
-Hi welcome in my Github page! Here is a resume of my academic and work experiences:
+Hi welcome in my Github page! I am Giovanni Esposito, Data Scientist passionate about Machine Learning and LLMs. Here is a resume of my academic and work experiences:
 
 ## Academic Experience
 + **Master's degree in Statisitcal Science, curriculum Data Science:**  
