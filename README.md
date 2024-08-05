@@ -3,8 +3,9 @@ Hi welcome in my Github page! Here is a resume of my academic and work experienc
 
 ## Academic Experience
 + **Master's degree in Statisitcal Science, curriculum Data Science:**
----
-Alma Mater Studiorum, Università di Bologna, Bologna, Italy.
+
+Alma Mater Studiorum, Università di Bologna, Bologna, Italy.  
+
 - Thesis title: *"Extracting information from documents using Retrieval Augmented Generation (RAG) and Large Language Models (LLMs)"* in collaboration with Munich Re. Accepted with full mark (6/6)
 
 + **Bachelor's degree in Statisitcal Science, curriculum Economics and Business:** < br / >
