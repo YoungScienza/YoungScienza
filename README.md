@@ -11,6 +11,10 @@ Hi welcome in my Github page! I am Giovanni Esposito, Data Scientist passionate 
     - Thesis title: *"Calculation of CLV using RFM variables"* in collaboration with BitBang s.r.l. Accepted with full mark (4/4).
 
 ## Work Experience
++ **Data Analyst**
+   - Insparx, Munich, Germany
+   - Nov 2024 - Present
+     
 + **Master Thesis Student**
    - Munich Re, Munich, Germany
    - Nov 2023 - June 2024
