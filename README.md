@@ -21,7 +21,7 @@ Hi welcome in my Github page! I am Giovanni Esposito, Data Scientist passionate 
 
 + **Data Scientist Intern**  
    - Munich Re, Munich, Germany
-   - Apr 2023 - Nov 2024
+   - Apr 2023 - Nov 2023
 
 + **Data Analyst Intern** 
    - BitBang s.r.l., Bologna, Italy
